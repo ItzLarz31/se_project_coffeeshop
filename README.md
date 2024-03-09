@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Better background image colors for the header would be a nice change as the circles I feel are too dull with the white background and might not be visible on certain monitors with high contrast or brightness.
