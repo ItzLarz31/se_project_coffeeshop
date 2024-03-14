@@ -14,3 +14,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Better background image colors for the header would be a nice change as the circles I feel are too dull with the white background and might not be visible on certain monitors with high contrast or brightness.
+
+### Live view
+
+For a live view of this project please go to this link. https://itzlarz31.github.io/se_project_coffeeshop/
